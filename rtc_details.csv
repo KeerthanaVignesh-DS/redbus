@@ -1,0 +1,54 @@
+route_name,route_link,busname,bustype,departing_time,duration,reaching_time,star_rating,price,seats_available
+Vijayawada to Hyderabad,https://www.redbus.in/online-booking/apsrtc/?utm_source=rtchometile,APSRTC - 35269,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),12:15,06h 10m,18:25,3.8,720,40
+Vijayawada to Hyderabad,https://www.redbus.in/online-booking/apsrtc/?utm_source=rtchometile,APSRTC - 3601,Super Luxury (Non AC Seater 2+2 Push Back),12:30,08h 05m,20:35,2.5,469,28
+Vijayawada to Hyderabad,https://www.redbus.in/online-booking/apsrtc/?utm_source=rtchometile,APSRTC - 35117,INDRA(A.C. Seater),13:00,06h 09m,19:09,3.7,567,34
+Vijayawada to Hyderabad,https://www.redbus.in/online-booking/apsrtc/?utm_source=rtchometile,APSRTC - 3823,Super Luxury (Non AC Seater 2+2 Push Back),13:00,06h 45m,19:45,4.0,469,32
+Bangalore to Kozhikode,https://www.redbus.in/online-booking/ksrtc-kerala/?utm_source=rtchometile,KSRTC (Kerala) - 52,SWIFT-GARUDA A/C SEATER BUS,12:01,07h 54m,19:55,3.6,627,24
+Bangalore to Kozhikode,https://www.redbus.in/online-booking/ksrtc-kerala/?utm_source=rtchometile,KSRTC (Kerala) - 1378,AC MULTI AXLE,13:46,07h 04m,20:50,2.7,729,22
+Bangalore to Kozhikode,https://www.redbus.in/online-booking/ksrtc-kerala/?utm_source=rtchometile,KSRTC (Kerala) - 235,Swift Deluxe Non AC Air Bus (2+2),15:00,09h 01m,00:01,4.3,620,30
+Bangalore to Kozhikode,https://www.redbus.in/online-booking/ksrtc-kerala/?utm_source=rtchometile,KSRTC (Kerala) - 97,Swift Deluxe Non AC Air Bus (2+2),16:02,08h 48m,00:50,2.8,567,31
+Khammam to Hyderabad,https://www.redbus.in/online-booking/tsrtc/?utm_source=rtchometile,TSRTC - 8847,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",11:10,04h 20m,15:30,4.1,320,24
+Khammam to Hyderabad,https://www.redbus.in/online-booking/tsrtc/?utm_source=rtchometile,TSRTC - 8970,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",11:15,04h 00m,15:15,4.0,320,31
+Khammam to Hyderabad,https://www.redbus.in/online-booking/tsrtc/?utm_source=rtchometile,TSRTC - 34339,RAJDHANI (A.C. Semi Sleeper),11:20,04h 10m,15:30,2.6,389,25
+Pune to Goa,https://www.redbus.in/online-booking/ktcl/?utm_source=rtchometile,Kadamba Transport Corporation Limited (KTCL) - 89821,A/C Sleeper (2+1),19:15,10h 35m,05:50,3.6,900,15
+Jodhpur to Ajmer,https://www.redbus.in/online-booking/rsrtc/?utm_source=rtchometile,RSRTC - 187798,Super Luxury Volvo AC Seater Pushback 2+2,11:55,03h 55m,15:50,4.5,460,32
+Jodhpur to Ajmer,https://www.redbus.in/online-booking/rsrtc/?utm_source=rtchometile,RSRTC - 156405,Express Non AC Seater 2+3,12:00,04h 30m,16:30,4.2,229,42
+Jodhpur to Ajmer,https://www.redbus.in/online-booking/rsrtc/?utm_source=rtchometile,RSRTC - 190537,Express Non AC Seater 2+3,12:30,04h 35m,17:05,4.2,229,42
+Jodhpur to Ajmer,https://www.redbus.in/online-booking/rsrtc/?utm_source=rtchometile,RSRTC - 157455,,13:00,04h 00m,17:00,4.3,460,30
+Burdwan to Kolkata,https://www.redbus.in/online-booking/south-bengal-state-transport-corporation-sbstc/?utm_source=rtchometile,SBSTC-BURDWAN - KARUNAMOYEE - 11:00 (BWN DEPOT) - 705,Non AC Seater (2+3),11:00,02h 30m,13:30,3.6,100,49
+Burdwan to Kolkata,https://www.redbus.in/online-booking/south-bengal-state-transport-corporation-sbstc/?utm_source=rtchometile,SBSTC-BURDWAN - KOLKATA - 11:30 (BWN DEPOT) - 23,Non AC Seater (2+3),11:30,02h 00m,13:30,3.8,95,47
+Burdwan to Kolkata,https://www.redbus.in/online-booking/south-bengal-state-transport-corporation-sbstc/?utm_source=rtchometile,SBSTC-BURDWAN - KARUNAMOYEE - 11:45 (BWN DEPOT) - 53,Non AC Seater (2+3),11:45,02h 30m,14:15,3.5,100,46
+Burdwan to Kolkata,https://www.redbus.in/online-booking/south-bengal-state-transport-corporation-sbstc/?utm_source=rtchometile,SBSTC-BURDWAN - KARUNAMOYEE - 12:30 (BWN DEPOT) - 54,,12:30,02h 30m,15:00,4.5,100,45
+Delhi to Shimla,https://www.redbus.in/online-booking/hrtc/?utm_source=rtchometile,HRTC - 515,Ordinary 3+2 Non AC Seater,12:30,10h 20m,22:50,4.2,507,37
+Delhi to Shimla,https://www.redbus.in/online-booking/hrtc/?utm_source=rtchometile,HRTC - 551,A/C Executive (2+3),15:30,10h 00m,01:30,3.5,612,42
+Delhi to Shimla,https://www.redbus.in/online-booking/hrtc/?utm_source=rtchometile,HRTC - 525,Ordinary 3+2 Non AC Seater,16:50,10h 10m,03:00,4.2,512,19
+Tezpur to Guwahati,https://www.redbus.in/online-booking/astc/?utm_source=rtchometile,Assam State Transport Corporation (ASTC) - 161055,Volvo AC Seater 2+2,16:15,04h 15m,20:30,4.1,298,12
+Bareilly to Delhi,https://www.redbus.in/online-booking/uttar-pradesh-state-road-transport-corporation-upsrtc/?utm_source=rtchometile,UPSRTC - RKD0152,Ordinary Non AC Seater 2+3,12:00,05h 30m,17:30,3.3,448,52
+Bareilly to Delhi,https://www.redbus.in/online-booking/uttar-pradesh-state-road-transport-corporation-upsrtc/?utm_source=rtchometile,UPSRTC - BLY0152,Janrath AC Seater 2+2,12:01,04h 29m,16:30,3.3,598,35
+Bareilly to Delhi,https://www.redbus.in/online-booking/uttar-pradesh-state-road-transport-corporation-upsrtc/?utm_source=rtchometile,UPSRTC - PLB0073,Shatabdi AC Seater 2+2,12:30,06h 31m,19:01,3.3,598,34
+Durgapur (West Bengal) to Kolkata,https://www.redbus.in/online-booking/wbtc-ctc/?utm_source=rtchometile,WBTC (CTC) KARUNAMOYEE - DURGAPUR - ASANSOL (AC Volvo) Banglashree Express - 135|13:30,Volvo AC Seater (2+2),13:30,03h 15m,16:45,4.2,350,27
+Durgapur (West Bengal) to Kolkata,https://www.redbus.in/online-booking/wbtc-ctc/?utm_source=rtchometile,WBTC (CTC) Habra - Barasat - Durgapur - Asansol - 100|14:25,Non AC Seater (2+3),14:25,02h 35m,17:00,5.0,135,38
+Durgapur (West Bengal) to Kolkata,https://www.redbus.in/online-booking/wbtc-ctc/?utm_source=rtchometile,WBTC (CTC) KARUNAMOYEE - DURGAPUR - ASANSOL (AC Volvo) Banglashree Express - 135|15:10,Volvo AC Seater (2+2),15:10,03h 15m,18:25,4.0,350,23
+Chandigarh to Delhi,https://www.redbus.in/online-booking/chandigarh-transport-undertaking-ctu,Chandigarh Transport Undertaking (CTU) - 165693,HVAC Seater (2+3),12:30,05h 35m,18:05,3.7,404.76,47
+Chandigarh to Delhi,https://www.redbus.in/online-booking/chandigarh-transport-undertaking-ctu,Chandigarh Transport Undertaking (CTU) - 165697,HVAC Seater (2+3),14:00,05h 35m,19:35,4.1,404.76,46
+Chandigarh to Delhi,https://www.redbus.in/online-booking/chandigarh-transport-undertaking-ctu,Chandigarh Transport Undertaking (CTU) - 165709,HVAC Seater (2+3),14:30,05h 35m,20:05,3.9,404.76,47
+Patiala to Delhi,https://www.redbus.in/online-booking/pepsu/?utm_source=rtchometile,PEPSU (Punjab) - 66649,Volvo AC Seater (2+2),12:40,05h 25m,18:05,4.3,692,29
+Patiala to Delhi,https://www.redbus.in/online-booking/pepsu/?utm_source=rtchometile,PEPSU (Punjab) - 67101,AC Seater Hvac 2+2,15:25,05h 01m,20:26,3.3,440,40
+Patiala to Delhi,https://www.redbus.in/online-booking/pepsu/?utm_source=rtchometile,PEPSU (Punjab) - 67142,Volvo AC Seater (2+2),16:00,06h 09m,22:09,4.1,692,40
+Patiala to Delhi,https://www.redbus.in/online-booking/pepsu/?utm_source=rtchometile,PEPSU (Punjab) - 66687,Volvo AC Seater (2+2),18:10,05h 25m,23:35,3.8,692,39
+Patiala to Delhi,https://www.redbus.in/online-booking/pepsu/?utm_source=rtchometile,PEPSU (Punjab) - 67104,AC Seater Hvac 2+2,22:30,05h 01m,03:31,2.8,440,40
+Kolkata to Siliguri,https://www.redbus.in/online-booking/north-bengal-state-transport-corporation,NORTH BENGAL STATE TRANSPORT CORPORATION,Non AC Seater (2+3),15:00,13h 20m,04:20,3.5,450,48
+Kolkata to Siliguri,https://www.redbus.in/online-booking/north-bengal-state-transport-corporation,NBSTC-KOL-APD-E1-19:00,Non AC Seater (2+3),16:00,13h 50m,05:50,3.8,450,43
+Kolkata to Siliguri,https://www.redbus.in/online-booking/north-bengal-state-transport-corporation,NBSTC-KOL-COB-R1-17:00,Non AC Seater 2+2,17:00,12h 00m,05:00,3.6,486,29
+Patna (Bihar) to Bettiah,https://www.redbus.in/online-booking/bihar-state-road-transport-corporation-bsrtc/?utm_source=rtchometile,Om Sai Ram (C.T),NON A/C Seater (2+2),14:10,06h 50m,21:00,3.2,500,28
+Patna (Bihar) to Bettiah,https://www.redbus.in/online-booking/bihar-state-road-transport-corporation-bsrtc/?utm_source=rtchometile,Om Sai Ram (C.T),NON A/C Seater (2+2),14:50,07h 00m,21:50,3.2,450,28
+Patna (Bihar) to Bettiah,https://www.redbus.in/online-booking/bihar-state-road-transport-corporation-bsrtc/?utm_source=rtchometile,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),20:28,05h 32m,02:00,3.4,450,6
+Patna (Bihar) to Bettiah,https://www.redbus.in/online-booking/bihar-state-road-transport-corporation-bsrtc/?utm_source=rtchometile,Jai Hanuman Travels,A/C Seater / Sleeper (2+2),22:20,06h 40m,05:00,3.5,550,54
+Diphu to Guwahati,https://www.redbus.in/online-booking/kaac-transport,Kareng Travels,Non AC Seater (2+1),11:15,05h 15m,16:30,4.0,380,13
+Kolkata to Digha,https://www.redbus.in/online-booking/west-bengal-transport-corporation?utm_source=rtchometile,West bengal transport corporation - 123496,Non AC Seater (2+3),16:15,04h 30m,20:45,2.4,145,23
+Kolkata to Digha,https://www.redbus.in/online-booking/west-bengal-transport-corporation?utm_source=rtchometile,West bengal transport corporation - 157764,Non AC Seater (2+3),17:15,04h 25m,21:40,3.4,145,33
+Jammu (j and k) to Srinagar,https://www.redbus.in/online-booking/jksrtc,New Pal Travels,NON A/C Seater / Sleeper (2+2),21:15,10h 00m,07:15,1.4,719,36
+Jammu (j and k) to Srinagar,https://www.redbus.in/online-booking/jksrtc,North Kashmir Tour and Travels,NON A/C Sleeper (2+2),16:30,10h 00m,02:30,1.0,699,40
+Jammu (j and k) to Srinagar,https://www.redbus.in/online-booking/jksrtc,Harikesh Tour N Travels,NON A/C Seater / Sleeper (2+2),20:30,09h 30m,06:00,1.0,584,44
+Jammu (j and k) to Srinagar,https://www.redbus.in/online-booking/jksrtc,Jamna Travels-Jammu,Non AC Seater (2+2),21:30,10h 30m,08:00,2.4,522,32
+Jammu (j and k) to Srinagar,https://www.redbus.in/online-booking/jksrtc,North Kashmir Tour and Travels,,17:15,10h 00m,03:15,1.0,699,40
