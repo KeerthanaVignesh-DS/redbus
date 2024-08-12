@@ -24,10 +24,11 @@ This repository contains scripts for scraping bus route and booking information 
    cd redbus
 2. Create virtualenvironment(venv)
 
-.Install the required Python packages:
+    Install the required Python packages:
     pip install selenium pandas sqlalchemy streamlit pymysql
 
 3.Download and install the appropriate WebDriver for your browser:
+
 4.Set up your MySQL database(redbus) and update the database create a table using table.sql
 
 # usage
